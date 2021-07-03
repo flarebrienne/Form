@@ -1,0 +1,25 @@
+body{
+    
+   
+    text-align: center;
+    color:#fafafa;
+    background-color:#03074f ;
+    border: 10px solid #8e92da;
+    border-top:0px;
+    margin:0px;
+}
+
+p{
+     color:#fafafa;
+     padding-top: 5%;
+     padding-right: 20%;
+     padding-left: 20%;
+}
+
+#sign{
+    border:  10px solid orange;
+    border-radius: 5px;
+    background-color: orange;
+    font-weight: bold;
+    margin-bottom: 10%;
+}
